@@ -1,9 +1,201 @@
 {
-  "1ano": [
-    {"pergunta": "Qual é o plural de 'cão'?", "opcoes": ["cãos", "cães", "caes"], "correta": 1},
-    {"pergunta": "Qual destas palavras tem acento?", "opcoes": ["pao", "mãe", "sol"], "correta": 1}
-  ],
-  "2ano": [],
-  "3ano": [],
-  "4ano": []
+  "1": [
+    {
+      "tipo": "multipla",
+      "pergunta": "Qual destas palavras está escrita corretamente?",
+      "opcoes": ["Kaza", "Casa", "Caza", "Kasa"],
+      "resposta": "Casa",
+      "explicacao": "A palavra 'casa' escreve-se com C, não com K ou Z."
+    },
+    {
+      "tipo": "multipla",
+      "pergunta": "Qual é o plural de 'menino'?",
+      "opcoes": ["meninos", "meninas", "meninoz", "menina"],
+      "resposta": "meninos",
+      "explicacao": "O plural de 'menino' é 'meninos', adicionando o 's'."
+    },
+    {
+      "tipo": "completar",
+      "pergunta": "Complete a palavra: _aca (fruta amarela e doce).",
+      "resposta": "banana",
+      "explicacao": "A palavra correta é 'banana'."
+    },
+    {
+      "tipo": "digitar",
+      "pergunta": "Escreve corretamente o nome da fruta: maçã.",
+      "resposta": "maçã",
+      "explicacao": "A palavra 'maçã' tem acento agudo no 'a'."
+    },
+    {
+      "tipo": "multipla",
+      "pergunta": "Qual destas palavras rima com 'pão'?",
+      "opcoes": ["mão", "cama", "pato", "bola"],
+      "resposta": "mão",
+      "explicacao": "'Pão' e 'mão' rimam porque terminam com o mesmo som 'ão'."
+    },
+    {
+      "tipo": "multipla",
+      "pergunta": "Qual é o feminino de 'menino'?",
+      "opcoes": ["meninos", "menina", "meninar", "menin"],
+      "resposta": "menina",
+      "explicacao": "O feminino de 'menino' é 'menina'."
+    },
+    {
+      "tipo": "multipla",
+      "pergunta": "Qual destas palavras indica um animal?",
+      "opcoes": ["mesa", "gato", "janela", "copo"],
+      "resposta": "gato",
+      "explicacao": "'Gato' é um animal doméstico."
+    },
+    {
+      "tipo": "completar",
+      "pergunta": "Complete: O sol é muito ______.",
+      "resposta": "quente",
+      "explicacao": "A palavra que completa corretamente é 'quente'."
+    },
+    {
+      "tipo": "digitar",
+      "pergunta": "Escreve o nome da estação do ano em que faz mais calor.",
+      "resposta": "verão",
+      "explicacao": "A estação mais quente é o 'verão'."
+    },
+    {
+      "tipo": "multipla",
+      "pergunta": "Qual destas palavras começa com a letra B?",
+      "opcoes": ["casa", "bola", "mesa", "faca"],
+      "resposta": "bola",
+      "explicacao": "'Bola' começa com a letra B."
+    },
+    {
+      "tipo": "multipla",
+      "pergunta": "Qual palavra está escrita com erro?",
+      "opcoes": ["escola", "livru", "menina", "caderno"],
+      "resposta": "livru",
+      "explicacao": "A forma correta é 'livro', com 'o' no fim."
+    },
+    {
+      "tipo": "completar",
+      "pergunta": "Complete: O ______ é o melhor amigo do homem.",
+      "resposta": "cão",
+      "explicacao": "A frase correta é 'O cão é o melhor amigo do homem'."
+    },
+    {
+      "tipo": "digitar",
+      "pergunta": "Escreve o nome de um animal que mia.",
+      "resposta": "gato",
+      "explicacao": "O gato é o animal que mia."
+    },
+    {
+      "tipo": "multipla",
+      "pergunta": "Qual destas palavras tem acento?",
+      "opcoes": ["pato", "leão", "mesa", "copo"],
+      "resposta": "leão",
+      "explicacao": "A palavra 'leão' tem acento no 'ã'."
+    },
+    {
+      "tipo": "multipla",
+      "pergunta": "Qual destas é uma cor?",
+      "opcoes": ["azul", "copo", "gato", "nuvem"],
+      "resposta": "azul",
+      "explicacao": "'Azul' é uma cor."
+    },
+    {
+      "tipo": "completar",
+      "pergunta": "Complete: O leite vem da ______.",
+      "resposta": "vaca",
+      "explicacao": "O leite vem da vaca."
+    },
+    {
+      "tipo": "digitar",
+      "pergunta": "Escreve o nome do local onde estudamos.",
+      "resposta": "escola",
+      "explicacao": "Estudamos na 'escola'."
+    },
+    {
+      "tipo": "multipla",
+      "pergunta": "Qual destas palavras tem o som de 'ch'?",
+      "opcoes": ["chave", "pato", "gato", "rato"],
+      "resposta": "chave",
+      "explicacao": "A palavra 'chave' começa com o som 'ch'."
+    },
+    {
+      "tipo": "multipla",
+      "pergunta": "Qual palavra indica um objeto?",
+      "opcoes": ["mesa", "correr", "feliz", "azul"],
+      "resposta": "mesa",
+      "explicacao": "'Mesa' é um objeto usado em casa."
+    },
+    {
+      "tipo": "completar",
+      "pergunta": "Complete: A flor é ______.",
+      "resposta": "bonita",
+      "explicacao": "A frase correta é 'A flor é bonita'."
+    },
+    {
+      "tipo": "multipla",
+      "pergunta": "Qual destas palavras rima com 'sol'?",
+      "opcoes": ["farol", "mesa", "pão", "gato"],
+      "resposta": "farol",
+      "explicacao": "'Sol' e 'farol' rimam."
+    },
+    {
+      "tipo": "digitar",
+      "pergunta": "Escreve o nome do animal que late.",
+      "resposta": "cão",
+      "explicacao": "O cão é o animal que late."
+    },
+    {
+      "tipo": "multipla",
+      "pergunta": "Qual destas é uma vogal?",
+      "opcoes": ["b", "a", "k", "t"],
+      "resposta": "a",
+      "explicacao": "As vogais são: a, e, i, o, u."
+    },
+    {
+      "tipo": "multipla",
+      "pergunta": "Qual destas palavras é uma ação?",
+      "opcoes": ["correr", "mesa", "bola", "menino"],
+      "resposta": "correr",
+      "explicacao": "'Correr' é um verbo, indica ação."
+    },
+    {
+      "tipo": "completar",
+      "pergunta": "Complete: A lua aparece à ______.",
+      "resposta": "noite",
+      "explicacao": "A lua aparece à noite."
+    },
+    {
+      "tipo": "multipla",
+      "pergunta": "Qual destas palavras está no plural?",
+      "opcoes": ["livros", "mesa", "cão", "gato"],
+      "resposta": "livros",
+      "explicacao": "'Livros' está no plural."
+    },
+    {
+      "tipo": "digitar",
+      "pergunta": "Escreve o nome de uma fruta vermelha.",
+      "resposta": "maçã",
+      "explicacao": "A 'maçã' é uma fruta vermelha."
+    },
+    {
+      "tipo": "multipla",
+      "pergunta": "Qual destas palavras começa com a letra M?",
+      "opcoes": ["mesa", "bola", "gato", "faca"],
+      "resposta": "mesa",
+      "explicacao": "'Mesa' começa com a letra M."
+    },
+    {
+      "tipo": "multipla",
+      "pergunta": "Qual destas palavras indica um sentimento?",
+      "opcoes": ["feliz", "bola", "janela", "livro"],
+      "resposta": "feliz",
+      "explicacao": "'Feliz' é um sentimento ou estado de espírito."
+    },
+    {
+      "tipo": "completar",
+      "pergunta": "Complete: O céu é ______.",
+      "resposta": "azul",
+      "explicacao": "O céu é azul."
+    }
+  ]
 }
