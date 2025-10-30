@@ -1,0 +1,9 @@
+{
+  "1ano": [
+    {"pergunta": "Qual é o plural de 'cão'?", "opcoes": ["cãos", "cães", "caes"], "correta": 1},
+    {"pergunta": "Qual destas palavras tem acento?", "opcoes": ["pao", "mãe", "sol"], "correta": 1}
+  ],
+  "2ano": [],
+  "3ano": [],
+  "4ano": []
+}
